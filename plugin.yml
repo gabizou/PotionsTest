@@ -1,0 +1,9 @@
+name: PotionTestPlugin
+main: com.gabizou.PotionTestPlugin
+version: 1.0
+authors: [ gabizou ]
+description: Test
+commands:
+  test:
+    description: Hero Towns commands
+    usage: /<command>
